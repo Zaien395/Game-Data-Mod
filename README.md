@@ -1,2 +1,1 @@
-# Game-Data-Mod
-A collection of my game data.
+Feel free to use my modified game data.
