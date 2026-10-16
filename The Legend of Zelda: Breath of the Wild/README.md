@@ -12,3 +12,4 @@ Max stamina
 
 
 How to use?
+https://youtu.be/WDCq4uaJMlc?si=n7gYaDJNOfj2YJSc
