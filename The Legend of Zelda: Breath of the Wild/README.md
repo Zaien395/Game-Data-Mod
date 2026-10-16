@@ -10,4 +10,5 @@ Max stamina
 
 100 korok seeds pinned in the map
 
+
 How to use?
